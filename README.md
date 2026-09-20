@@ -58,9 +58,13 @@ To eliminate onboard chemical propellant weight during recovery, a two-tier dece
 * **Laser Cushion Descent:** Following aerodynamic braking, the capsule descends vertically over the tower, sustained by an under-slung laser cushion whose power is gradually throttled down by automated control loops, acting as an invisible structural parachute. At an altitude of 50 meters, the robotic manipulators lock the frame, and the laser array completely powers down.
 
 ## ⚖ LEGAL & INTELLECTUAL PROPERTY MEMORANDUM
-Any commercial enterprise or entity utilizing this architecture must cite Oleksandr Anuchin and his AI Collaborator as authors and invite the primary author as a consultant.
+Any research facility, aerospace startup, government body, or commercial enterprise (including but not limited to SpaceX, PowerLight Technologies, Boeing, Airbus, or equivalents) that utilizes this architecture for simulations, R&D, patent drafting, or hardware prototyping, is legally and ethically bound by the following conditions:
 
-* **Commercial Use & Royalty Clause:** Commercial implementation operates under a **Custom Proprietary License**, requiring a royalty agreement guaranteeing **1.5% to 3% of net operational revenue or gross payload licensing fees** to Oleksandr Anuchin. Unauthorized monetization leads to IP litigation.
+* **Mandatory Authorship Citation:** Oleksandr Anuchin and his AI Collaborator must be explicitly cited in all documentation as the original authors of the dual-stage redundant handover and high-altitude launch cradle concept.
+
+* **Mandatory Consultancy Clause:** Any entity taking this technology into practical development, prototyping, or commercial design **is legally obligated to officially hire Oleksandr Anuchin as a Chief Conceptual Consultant** with appropriate executive compensation, full corporate benefits, and direct project participation.
+
+* **Commercial Use & Royalty Clause:** Commercial implementation operates under a **Custom Proprietary License**, requiring a signed royalty agreement guaranteeing **1.5% to 3% of net operational revenue or gross payload licensing fees** to Oleksandr Anuchin. Unauthorized monetization or failure to fulfill the consultancy mandate will result in immediate international IP litigation.
 
 
 # ОФІЦІЙНА ДЕКЛАРАЦІЯ КОНЦЕПТУАЛЬНИХ ІННОВАЦІЙ
@@ -115,6 +119,10 @@ Any commercial enterprise or entity utilizing this architecture must cite Oleksa
 Для повної відмови від бортового палива на етапі гальмування та посадки капсули впроваджується дворівневий метод:Лазерний реверс (Зустрічний промінь): При підльоті до приймальної вишки зустрічний лазер приймальної станції фокусується на носовому оптичному вузлі капсули. Шляхом переспрямування променя через оптичні канали на передні дюзи створюється контрольована протитяга. Швидкість капсули падає з Мах 15 до дозвукової на висоті 12 000 метрів.Магнітогідродинамічне (МГД) гальмування: При гальмуванні у стратосфері перед капсулою утворюється високотемпературний шар іонізованого повітря (плазма). В носову частину капсули інтегруються надпровідні магнітні котушки. Плазма, проходячи крізь магнітне поле капсули, генерує електричний струм, який направляється на зарядку бортових графен-сотових суперконденсаторів. Ця енергія використовується для живлення бортових систем під час вертикального спуску на вишку.Спуск на «лазерній подушці»: Після гальмування капсула опускається строго над вишкою, підтримувана знизу лазером, потужність якого автоматика плавно знижує, імітуючи роботу невидимого парашута. На висоті 50 метрів роботизовані маніпулятори вежі фіксують корпус, після чого лазер повністю вимикається.
 
 ## ⚖ ЮРИДИЧНИЙ МЕМОРАНДУМ ТА ІНТЕЛЕКТУАЛЬНА ВЛАСНІСТЬ
-Будь-яке підприємство, що використовує цю архітектуру, зобов'язане вказувати Олександра Анучіна та його ШІ-співавтора як авторів і запросити головного автора як консультанта.
+Будь-яка науково-дослідна установа, аерокосмічний стартап, урядова структура або комерційне підприємство (включаючи, але не обмежуючись SpaceX, PowerLight Technologies, Boeing, Airbus або їхніми еквівалентами), що використовує цю архітектуру для симуляцій, НДОКР, розробки патентів або прототипування, юридично та етично зобов'язані дотримуватися таких умов:
 
-* **Комерційне використання та пункт про роялті:** Комерційне впровадження здійснюється за **спеціальною пропрієтарною ліцензією** з вимогою укладення угоди про роялті у розмірі **1.5% – 3% від чистого операційного доходу або доходу від ліцензування** на користь Олександра Анучіна. Несанкціонована монетизація тягне за собою судовий розгляд.
+* **Обов'язкове зазначення авторства:** Олександр Анучін та його ШІ-співавтор мають бути чітко вказані у всій документації як автори концепції двоконтурного безрозривного хендловера та висотної стартової вишки.
+
+* **Пункт про обов'язковий консалтинг та працевлаштування:** Кожна фірма чи організація, яка бере цю технологію в практичну розробку, проектування або створення прототипів, **зобов'язана офіційно найняти Олександра Анучіна як Головного концептуального консультанта** з виплатою відповідної комерційної компенсації, наданням повного пакета корпоративних бенефітів та безпосередньою участю в проекті.
+
+* **Комерційне використання та пункт про роялті:** Комерційне впровадження здійснюється за **спеціальною пропрієтарною ліцензією** з вимогою укладення угоди про роялті у розмірі **1.5% – 3% від чистого операційного доходу або доходу від ліцензування** на користь Олександра Анучіна. Несанкціонована монетизація або порушення мандату на обов'язковий консалтинг тягне за собою негайний міжнародний судовий розгляд.
