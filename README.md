@@ -1,62 +1,51 @@
 # OFFICIAL DECLARATION OF CONCEPTUAL INNOVATION
 **Document ID:** WP-BEAMFLIGHT-2026-001  
 **Date of Origin:** September 20, 2026  
-**Status:** Public Domain / Open IP Disclosure under Creative Commons (CC BY 4.0)
+**Status:** Public Domain / Open IP Disclosure under Creative Commons (CC BY 4.0)  
 
 ## 👥 AUTHORS & COLLABORATORS
-* **Primary Author & Conceptual Architect:** Oleksandr Anuchin
-  * **Date of Birth:** December 06, 1989
-  * **Location:** Kryvyi Rih, Ukraine (Kosmonavtiv St., 29/3)
-  * **Verified Email (Active since 2000s):** tuchmeker@gmail.com
-  * **Backup Email:** tuchmeker5@gmail.com
-  * **Digital Identity Verification:** GitHub Profile / humsys-Ua
-* **Co-Author & AI Research Collaborator:** Advanced AI Assistant (Large Language Model)
-  * **Role:** Architectural synthesis, technical validation, and multilingual documentation formatting.
+* **Primary Author & Conceptual Architect:** Oleksandr Anuchin (Kryvyi Rih, Ukraine; tuchmeker@gmail.com; GitHub: humsys-Ua)
+* **Co-Author & AI Research Collaborator:** Advanced AI Assistant
 
----
+## ✈ TITLE OF INVENTION & ARCHITECTURE
+**"Dual-Mode Transport Aviation System with External Beam Power, High-Altitude Launch Cradle, and Continuous Multi-Beam Control Transfer Architecture (Beam-Flight System)"**
 
-## ✈️ TITLE OF INVENTION
-**"Dual-Stage Beam-Powered Propulsion Network for Civil Aviation with Continuous Multi-Beam Handover Architecture (The 'Beam-Flight' System)"**
+### 1. VEHICLE ARCHITECTURE: UNMANNED AERODYNAMIC BEAM-DRIVEN CAPSULE (UABC)
+The vehicle is designed as an **Unmanned Aerodynamic Beam-driven Capsule (UABC)**—a supersonic, fuel-free drone optimized for minimum cross-sectional area to drastically reduce atmospheric drag at speeds up to Mach 15. The fuselage is completely stripped of heavy traditional wings and fuel tanks.
 
-### TECHNICAL LOGIC & ARCHITECTURE
-This document declares the worldwide priority of the conceptual architecture for a fuel-free, zero-emission passenger and cargo aviation system. The system entirely eliminates onboard combustible fuel and heavy batteries, replacing them with a continuous dual-source external energy stream.
+### 1.1. ENERGY RECEIVER MATRIX & OPTICAL SYSTEM
+The capsule's hull is covered with specialized photoelectric and thermochemical receiving matrices divided into three isolated functional zones:
+* **Lower Optical Node ("Belly"):** A high-density mirror reflector matrix resistant to extreme thermal ablation, engineered to interface with the focused infrared (IR) beam from the ground station.
+* **Upper Optical Node ("Back"):** A cooled photovoltaic converter matrix utilizing multi-junction Gallium Arsenide (GaAs) crystals to capture distributed laser energy from the orbital satellite constellation.
+* **Nose Optical Node ("Nose"):** A reversible mirror system that redirects incoming counter-beams from the destination station to generate retro-thrust for deceleration.
 
-1. **The Ground-to-Air Push Stage:** High-energy laser emitters located at airport transport hubs project a concentrated power beam to the lower receiver (belly) of the aircraft. This energy is converted to thermal or electrical thrust, pushing the ultra-light frame vertically or at steep angles through the dense, cloud-heavy layers of the atmosphere up to 12,000 meters.
-2. **The Space-to-Air Cruise Stage:** A global "cellular" network of Low-Earth-Orbit (LEO) and Geostationary (GEO) solar-collecting satellites intercepts the aircraft in the stratosphere, providing uninterrupted laser/microwave power to the upper receiver (spine) across oceans and continents.
+### 1.2. HULL MATERIALS & AERODYNAMICS
+* **Structural Frame:** Ultra-light carbon-carbon composite structures reinforced with titanium bulkheads to withstand structural loads from 8G up to 15G.
+* **Thermal Shielding:** Porous metal-ceramic tiles based on Hafnium Carbide (HfC) and Zirconium Diboride (ZrB2), capable of enduring operational temperatures up to 2200°C in the stratosphere.
+* **Stabilization:** Swept-back, ultra-low-area fins located at the aft section, serving strictly as structural stabilizers to maintain course and damp aerodynamic oscillations caused by atmospheric turbulence.
+* ### 2. GROUND COMPLEX: HIGH-ALTITUDE LAUNCH CRADLE
+To ensure fire, environmental, and radiation safety, as well as to minimize the destructive impact of ground-level dust on high-precision optics, all launch and recovery operations are shifted to a specialized high-altitude superstructure (50–100 meters high).
+* **Robotic Manipulators:** Heavy-duty hydraulic clamps that rigidly secure the capsule at the apex of the tower during cargo loading and pre-launch synchronization.
+* **Safety Arresting Cables:** Magnetorheological or hydraulic cable systems equipped with real-time tension sensors, providing emergency mechanical braking and structural anchoring in the event of an abrupt power failure.
+* **Meteorological Shielding Complex:** An array of ground-based microwave or gas-dynamic cannons deployed around the perimeter to disperse fog, low clouds, and local precipitation directly above the optical laser shaft during the ignition sequence.
 
-### THE KEY CORE INNOVATION: "MAKE-BEFORE-BREAK" MULTI-BEAM HANDOVER
-To prevent catastrophic power failure during altitude transition, a redundant overlapping mechanism is established by the authors:
-* At the altitude of 12,000 meters, **both the ground-based beam and the orbital satellite beam lock onto the aircraft simultaneously.**
-* The ground-based power supply remains at 100% load until the onboard flight computer verifies the absolute connection, telemetry, and power density of the incoming space-based beam.
-* The ground station terminates its beam **only after a confirmed 100% load handover to the orbital network is established.**
-* During cruise flight, multiple lower-intensity beams from different satellites overlap to distribute thermal stress and ensure safety from cloud or debris interference.
+### 3. STEP-BY-STEP ENGINEERING LAUNCH PROTOCOL
+* **Step 1 (Static Lock):** The UABC capsule is fully loaded and mechanically locked by the tower's manipulators. Internal guidance and diagnostic sub-systems are linked with the ground control telemetry matrix.
+* **Step 2 (Laser Levitation):** The subterranean laser array initiates at a base holding power (10–15% of operational nominal). The thrust generated by the laser-air-detonation engine exactly counterbalances gravitational force (F_thrust = m · g). Mechanical tension on the arresting cables drops to zero.
+* **Step 3 (Stability Audit):** For 1.5 to 2.0 seconds, the onboard Flight Controller (FC) diagnoses the beam centering vector relative to the lower receiver matrix (allowable tolerance ≤ 0.01 mm) while evaluating real-time airframe structural vibrations.
+* **Step 4 (Circuit Release):** Upon 100% telemetry validation of levitation stability, the robotic manipulators disengage, and the arresting cables instantly decouple via hydraulic retraction. The capsule hovers in open space solely on laser light pressure.
+* **Step 5 (Exponential Acceleration):** Ground laser array output jumps to 100% nominal capacity (multi-megawatt/gigawatt throughput). The capsule executes a vertical ascent with structural accelerations ranging from 5G to 8G, rapidly breaking the 12,000-meter threshold.
 
-### LEGAL & INTELLECTUAL PROPERTY MEMORANDUM
+### 4. ORBITAL CONSTELLATION & REDUNDANT HANDOVER "MAKE-BEFORE-BREAK"
+* **Orbital Node Array:** A global distributed satellite constellation positioned across Low Earth Orbit (LEO) and Geostationary Orbit (GEO), equipped with deployable photovoltaic solar sails that harvest solar radiation and convert it into coherent laser beams.
+* **Baton Relay Protocol:** At an altitude of 12,000 meters, the vehicle's trajectory transitions from vertical ascent to a horizontal (cruising) profile. The orbital laser network establishes an absolute lock on the capsule’s "Back" receiver matrix *before* the ground-based array terminates its cycle.
+* **Zero-Interruption Principle:** Ground power retains 100% load distribution until the onboard mainframe verifies an optimal orbital link, telemetry tracking, and satellite beam power density. The ground laser disconnects strictly after confirming a comprehensive load transfer to the space network. Power supply disruption is rated at **0.000 seconds**.
+
+### 5. COMBINED DECELLERATION & ENERGY RECOVERY SYSTEM
+To eliminate onboard chemical propellant weight during recovery, a two-tier deceleration methodology is implemented:
+* **Laser Retro-Thrust:** Upon approaching the destination tower, a focused counter-beam from the receiving ground station targets the nose optical deflector. Internal optical wave-guides route this energy into forward-facing expansion nozzles, creating an artificial counter-thrust that bleeds velocity from Mach 15 down to subsonic profiles at 12,000 meters.
+* **Magnetohydrodynamic (MHD) Deceleration:** During descent through the stratosphere, a high-temperature layer of ionized atmospheric air (plasma) forms around the nose section. Superconducting magnetic coils embedded into the hull engage this plasma flow, generating substantial electrical currents (inverse MHD generator principle). This energy is funneled directly into onboard graphene-matrix superconductors to power avionics and actuator systems during final recovery.
+* **Laser Cushion Descent:** Following aerodynamic braking, the capsule descends vertically over the tower, sustained by an under-slung laser cushion whose power is gradually throttled down by automated control loops, acting as an invisible structural parachute. At an altitude of 50 meters, the robotic manipulators lock the frame, and the laser array completely powers down.
+
+## ⚖ LEGAL & INTELLECTUAL PROPERTY MEMORANDUM
 Any research facility, aerospace startup, government body, or commercial enterprise (including but not limited to SpaceX, PowerLight Technologies, Boeing, Airbus, or equivalents) that utilizes this architecture for simulations, R&D, patent drafting, or hardware prototyping, **is legally and ethically required to cite Oleksandr Anuchin and his AI Collaborator as the original authors of the dual-stage redundant handover concept**, and extend an invitation to the primary author as a project consultant.
-
----
-
-# ОФИЦИАЛЬНАЯ ДЕКЛАРАЦИЯ КОНЦЕПТУАЛЬНОЙ ИННОВАЦИИ (РУ)
-
-## 👥 АВТОРЫ И СОРАЗРАБОТЧИКИ
-* **Главный автор и концептуальный архитектор:** Анучин Александр (Oleksandr Anuchin)
-  * **Адрес:** Украина, г. Кривой Рог, ул. Космонавтов, 29/3
-  * **Email:** tuchmeker@gmail.com / tuchmeker5@gmail.com
-  * **Профиль:** GitHub / humsys-Ua
-* **Соавтор и ИИ-ассистент:** Передовая нейросетевая модель (Large Language Model)
-  * **Роль:** Архитектурный синтез, техническая валидация логики переключения и международное оформление.
-
-## ✈️ НАЗВАНИЕ РАЗРАБОТКИ
-**«Двухрежимная транспортная авиационная система с внешним лучевым питанием и архитектурой непрерывной многолучевой передачи управления (Система "Beam-Flight")»**
-
-### ТЕХНИЧЕСКАЯ СУТЬ И ЛОГИКА
-Настоящий документ фиксирует международный приоритет концептуальной архитектуры для беспилотной и пилотируемой гражданской авиации с нулевым уровнем выбросов. Концепция полностью исключает использование горючего топлива и тяжелых батарей на борту, заменяя их внешним потоком направленной энергии.
-
-1. **Наземный этап выталкивания:** Высокоэнергетические лазерные излучатели, расположенные в аэропортах, направляют концентрированный луч в нижний приемник («брюхо») самолета. Энергия трансформируется в тягу, выталкивая ультралегкий планер через плотные слои атмосферы и облачность до высоты 12 000 метров.
-2. **Космический этап крейсерского полета:** Глобальная «сотовая» сеть спутников на низких и геостационарных орбитах перехватывает самолет в стратосфере, подавая непрерывное лазерное питание на верхний приемник («спину») аппарата при движении над материками и океанами.
-
-### ГЛАВНЫЙ ИННОВАЦИОННЫЙ УЗЕЛ: НЕРАЗРЫВНЫЙ ХЭНДЛОВЕР «MAKE-BEFORE-BREAK»
-Для полного исключения риска обесточивания при смене источников питания авторами внедряется механизм контролируемого перекрытия лучей:
-* На высоте 12 000 метров **наземный и космический лучи удерживают самолет одновременно.**
-* Питание с Земли удерживает 100% нагрузки до тех пор, пока бортовой компьютер не подтвердит идеальный захват, телеметрию и плотность мощности луча со спутника.
-* Отключение наземного лазера происходит **строго после подтверждения полной передачи нагрузки на космическую сеть.**
