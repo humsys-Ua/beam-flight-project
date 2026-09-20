@@ -49,14 +49,20 @@ To eliminate onboard chemical propellant weight during recovery, a two-tier dece
 
 ## ⚖ LEGAL & INTELLECTUAL PROPERTY MEMORANDUM
 Any research facility, aerospace startup, government body, or commercial enterprise (including but not limited to SpaceX, PowerLight Technologies, Boeing, Airbus, or equivalents) that utilizes this architecture for simulations, R&D, patent drafting, or hardware prototyping, **is legally and ethically required to cite Oleksandr Anuchin and his AI Collaborator as the original authors of the dual-stage redundant handover concept**, and extend an invitation to the primary author as a project consultant.
-OFFICIAL DECLARATION OF CONCEPTUAL INNOVATION
-Document ID: WP-BEAMFLIGHT-2026-001Date of Origin: September 20, 2026
-Status: Public Domain / Open IP Disclosure under Creative Commons (CC BY 4.0)
-👥 AUTHORS & COLLABORATORS
-Primary Author & Conceptual Architect: Oleksandr Anuchin (Kryvyi Rih, Ukraine; tuchmeker@gmail.com)
-Co-Author & AI Research Collaborator: Advanced AI Assistant
-TITLE OF INVENTION & ARCHITECTURE
-«Двухрежимная транспортная авиационная система с внешним лучевым питанием, высотной фиксацией "Лазерная Колиска" и архитектурой непрерывной многолучевой передачи управления (Система "Beam-Flight")»
+
+# ОФІЦІЙНА ДЕКЛАРАЦІЯ КОНЦЕПТУАЛЬНИХ ІННОВАЦІЙ
+**Document ID:** WP-BEAMFLIGHT-2026-001  
+**Дата створення:** 20 вересня 2026 року  
+**Статус:** Відкрите розкриття IP / Суспільне надбання за ліцензією Creative Commons (CC BY 4.0)  
+
+## 👥 АВТОРИ ТА СПІВАВТОРИ
+* **Головний автор та концептуальний архітектор:** Олександр Анучін (Кривий Ріг, Україна; tuchmeker@gmail.com; GitHub: humsys-Ua)
+* **Співавтор та ШІ-дослідник:** Передовий ШІ-Асистент
+
+## ✈ НАЗВА ВИНАХОДУ ТА СИСТЕМНА АРХІТЕКТУРА
+**«Дворежимна транспортна авіаційна система з зовнішнім променевим живленням, висотною фіксацією "Лазерна Колиска" та архітектурою безперервної багатопроменевої передачі управління (Система "Beam-Flight")»**
+
+*Повний текст офіційної декларації, архітектури транспортного засобу, наземного комплексу, інженерного протоколу старту, космічного ешелону та юридичного меморандуму доступний у вихідному документі репозиторію.*
 
 1. АРХІТЕКТУРА ТРАНСПОРТНОГО ЗАСОБУ: 
 АЕРОДИНАМІЧНА КАПСУЛА (UABC)Транспортний засіб виконується у формі Unmanned Aerodynamic Beam-driven Capsule (UABC) — надзвукової безпілотної капсули з мінімальним міделевим перерізом для зниження лобового опору на швидкостях до Мах 15. Корпус повністю позбавлений класичного важкого крила та паливних баків.
