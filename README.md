@@ -80,6 +80,12 @@ To transition this architecture from a conceptual framework into an operational 
 
 * **Phase 2: High-Altitude Transonic Piercing:** Scaling laser output to 25 MW to drive the prototype vertically through the 12,000-meter atmospheric threshold, validating the Active Dynamic Adaptive Optics System (ADAOS) wavefront correction profile under localized air turbulence.
 
+* **6.1. International Commercial Budget & Logistics Hubs ("VECTOR-PRIME"):** To completely mitigate geopolitical and military risks, the commercial deployment of the single-direction round-the-world conveyor is established across ultra-stable, peaceful geological nodes. The primary test site and central tungsten refurbishment facility, **"Shpakivnia-1 / Prime,"** is anchored within the monolithic granite of the Australian Craton (Darwin). The Phase 1 commercial demonstrator budget for a certified peaceful hub is rated at **$18,400,000** with a deployment timeline of **30 months**, accounting for strict environmental audits and civil aviation (FAA/CASA) licensing. The globally staggered chess-pattern transit network links four core nodes:
+  * **Hub 1 (Shpakivnia-1 / Prime):** Darwin, Australia. Geopolitically isolated, zero seismic activity, capturing East Asian semiconductor flows.
+  * **Hub 2 (Shpakivnia-2):** Oahu, Hawaii, USA. High-altitude Pacific relay bridge.
+  * **Hub 3 (Shpakivnia-3):** Quito, Ecuador. Zero-degree equatorial insertion for maximum space energy optimization.
+  * **Hub 4 (Shpakivnia-4):** Azores, Portugal. High-security European Union terminal for western continental distribution.
+
 ### 7. IONOSPHERIC PLASMA COMPENSATION (SPACE-BASED ADAPTIVE OPTICS)
 * **Space-Based Active Wavefront Correction (S-ADAOS):** To completely mitigate beam defocusing, phase-shifting, and diffraction caused by the E-layer ionospheric plasma at cruise altitudes of 110–120 km, the "Leader-Follower" satellite constellation is equipped with high-frequency cosmic wavefront sensors. The orbital power satellites utilize real-time quantum-density matrices to pre-distort the space-to-earth laser beam. As the light wave passes downward through natural ionospheric disruptions, the plasma anomalies act as a corrective lens, sharpening the beam into a mathematically perfect focus directly onto the UABC capsule's upper GaAs matrix.
 
@@ -172,6 +178,12 @@ Any research facility, aerospace startup, government body, or commercial enterpr
 * **Етап 1: Підземний масштабований демонстратор:** Будівництво експериментальної 10-метрової вертикальної воронко-револьверної шахти. Тестування фокусованого лазера потужністю 5 МВт на 50-кілограмовій зменшеній капсулі-прототипі ("Beam-Mini") для практичної перевірки циклу заправки Just-in-Time та стабілізації на решітці-конфорці.
 
 * **Етап 2: Трансзвуковий висотний прорив:** Збільшення потужності лазера до 25 МВт для вертикального виштовхування прототипу через межу 12 000 метрів з метою повної валідації системи адаптивної оптики ADAOS в умовах реальних атмосферних спотворень.
+
+* **6.1. Міжнародний комерційний кошторис та логістичні хаби «ВЕКТОР-ПРАЙМ»:** Для повного нівелювання геополітичних та воєнних ризиків комерційне розгортання однонаправленого кругосвітнього конвеєра переноситься на ультрастабільні, мирні геологічні платформи. Перший пусковий комплекс та головний сервісний центр регенерації вольфраму **«Шпаківня-1 / Прайм»** закладаються у монолітні гранітні породи Австралійського кратона (Дарвін). Кошторис Фази 1 для сертифікованого мирного хабу становить **$18,400,000** із терміном запуску **30 місяців**, що враховує жорсткі екологічні експертизи та ліцензування цивільної авіації (FAA/CASA). Глобальна шахова логістична мережа з'єднує чотири опорні точки:
+  * **Хаб 1 (Шпаківня-1 / Прайм):** Дарвін, Австралія. Геополітично ізольований, нульова сейсмічність, збір мікроелектроніки з Азії.
+  * **Хаб 2 (Шпаківня-2):** Оаху, Гаваї, США. Високогірний тихоокеанський ретрансляційний міст.
+  * **Хаб 3 (Шпаківня-3):** Кіто, Еквадор. Екваторіальний старт із нульовим кутом для максимальної оптимізації орбітальної енергії.
+  * **Хаб 4 (Шпаківня-4):** Азорські острови, Португалія. Надзахищений термінал Європейського Союзу для західноєвропейського розподілу.
 
 ### 7. КОМПЕНСАЦІЯ ІОНОСФЕРНОЇ ПЛАЗМИ (КОСМІЧНА АДАПТИВНА ОПТИКА)
 * **Космічна активна корекція хвильового фронту (S-ADAOS):** Для повного нівелювання дефокусування, дифракції та фазового тремтіння променя, що викликані плазмою Е-шару іоносфери на крейсерській висоті 110–120 км, супутники «Лідер — Ведомий» оснащуються високочастотними космічними датчиками хвильового фронту. Орбітальні станції використовують квантові матриці щільності для попереднього викривлення променя в просторі. Проходячи через природні збурення іоносфери, лазерний промінь самокоригується і фокусується на верхній GaAs матриці капсули UABC з абсолютною точністю від А до Я.
