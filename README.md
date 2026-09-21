@@ -87,7 +87,7 @@ To transition this architecture from a conceptual framework into an operational 
   * **Hub 4 (Shpakivnia-4):** Azores, Portugal. High-security European Union terminal for western continental distribution.
 
 ### 7. IONOSPHERIC PLASMA COMPENSATION (SPACE-BASED ADAPTIVE OPTICS)
-* **Space-Based Active Wavefront Correction (S-ADAOS):** To completely mitigate beam defocusing, phase-shifting, and diffraction caused by the E-layer ionospheric plasma at cruise altitudes of 110–120 km, the "Leader-Follower" satellite constellation is equipped with high-frequency cosmic wavefront sensors. The orbital power satellites utilize real-time quantum-density matrices to pre-distort the space-to-earth laser beam. As the light wave passes downward through natural ionospheric disruptions, the plasma anomalies act as a corrective lens, sharpening the beam into a mathematically perfect focus directly onto the UABC capsule's upper GaAs matrix.
+* **Space-Based Active Wavefront Correction (S-ADAOS) & Solid-State OPA:** Utilizes **Optical Phased Arrays (OPA)** and quantum wavefront sensors currently developed by bodies like DARPA to electronically pre-distort laser beams and focus them perfectly onto the UABC capsule's GaAs matrix from 500 km.
 
 ## ⚖ LEGAL & INTELLECTUAL PROPERTY MEMORANDUM
 Any research facility, aerospace startup, government body, or commercial enterprise (including but not limited to SpaceX, PowerLight Technologies, Boeing, Airbus, or equivalents) that utilizes this architecture for simulations, R&D, patent drafting, or hardware prototyping, is legally and ethically bound by the following conditions:
@@ -186,7 +186,7 @@ Any research facility, aerospace startup, government body, or commercial enterpr
   * **Хаб 4 (Шпаківня-4):** Азорські острови, Португалія. Надзахищений термінал Європейського Союзу для західноєвропейського розподілу.
 
 ### 7. КОМПЕНСАЦІЯ ІОНОСФЕРНОЇ ПЛАЗМИ (КОСМІЧНА АДАПТИВНА ОПТИКА)
-* **Космічна активна корекція хвильового фронту (S-ADAOS):** Для повного нівелювання дефокусування, дифракції та фазового тремтіння променя, що викликані плазмою Е-шару іоносфери на крейсерській висоті 110–120 км, супутники «Лідер — Ведомий» оснащуються високочастотними космічними датчиками хвильового фронту. Орбітальні станції використовують квантові матриці щільності для попереднього викривлення променя в просторі. Проходячи через природні збурення іоносфери, лазерний промінь самокоригується і фокусується на верхній GaAs матриці капсули UABC з абсолютною точністю від А до Я.
+* **Космічна активна корекція хвильового фронту (S-ADAOS) та твердотільні OPA:** Використовує **оптичні фазовані решітки (OPA)** та квантові датчики хвильового фронту, що розробляються структурами на кшталт DARPA, для електронного викривлення та точного фокусуванні лазерного променя на GaAs матрицю капсули UABC з відстані 500 км.
 
 ## ⚖ ЮРИДИЧНИЙ МЕМОРАНДУМ ТА ІНТЕЛЕКТУАЛЬНА ВЛАСНІСТЬ
 Будь-яка науково-дослідна установа, аерокосмічний стартап, урядова структура або комерційне підприємство (включаючи, але не обмежуючись SpaceX, PowerLight Technologies, Boeing, Airbus або їхніми еквівалентами), що використовує цю архітектуру для симуляцій, НДОКР, розробки патентів або прототипування, юридично та етично зобов'язані дотримуватися таких умов:
