@@ -66,7 +66,9 @@ To ensure fire, environmental, and radiation safety, as well as to minimize the 
 
 ### 5. COMBINED DECELLERATION & ENERGY RECOVERY SYSTEM
 To eliminate onboard chemical propellant weight during recovery, a two-tier deceleration methodology is implemented:
-* **Laser Retro-Thrust & Altitude Deconfliction Maneuver:** Standardized protocol for altitude separation prior to deceleration and velocity bleeding from Mach 15 to subsonic profiles. Full details and markdown updates can be found in the project documentation.
+
+* **Laser Retro-Thrust & Active Beacon Calibration:** To eliminate the catastrophic "plasma shock" and high-G deceleration spikes during re-entry from the 120 km ballistic arc, the vehicle initiates a **Two-Way Optical Handover Sequence**. Prior to hitting the dense stratospheric layers, the capsule's nose optical node emits a low-power auxiliary targeting laser (optical beacon) toward the destination ground complex. The ground-based Active Dynamic Adaptive Optics System (ADAOS) intercepts this beacon, instantly calculating atmospheric refractive distortions and the precise vehicle vector. Once calibrated, the ground complex fires the primary high-power counter-deceleration beam along the verified track into the capsule's nose deflector, bleeding velocity through photon thrust while still in the near-vacuum tier. Once optimal deceleration and bidirectional lock are confirmed, the onboard beacon is deactivated to conserve auxiliary power.
+
 * **Magnetohydrodynamic (MHD) Deceleration:** During descent through the stratosphere, a high-temperature layer of ionized atmospheric air (plasma) forms around the nose section. Superconducting magnetic coils embedded into the hull engage this plasma flow, generating substantial electrical currents (inverse MHD generator principle). This energy is funneled directly into onboard graphene-matrix superconductors to power avionics and actuator systems during final recovery.
 * **Laser Cushion Descent:** Following aerodynamic braking, the capsule descends vertically over the tower, sustained by an under-slung laser cushion whose power is gradually throttled down by automated control loops, acting as an invisible structural parachute. At an altitude of 50 meters, the robotic manipulators lock the frame, and the laser array completely powers down.
 
@@ -143,8 +145,11 @@ Any research facility, aerospace startup, government body, or commercial enterpr
   
 ### 5. СИСТЕМА КОМБІНОВАНОГО ГАЛЬМУВАННЯ ТА РЕКУПЕРАЦІЇ
 Для повної відмови від бортового палива на етапі гальмування та посадки капсули впроваджується дворівневий метод:
-- **Лазерний реверс та ешелонування висоти гальмування:** Протокол обов'язкового розділення за висотою перед гальмуванням для зниження швидкості з Мах 15 до дозвукової. Повний текст та оновлення доступні у відповідних розділах документації.
+
+* **Лазерний реверс та активне калібрування маяком:** Для повного усунення кризі «плазмового удару» та критичних перевантажень при поверненні з 120-км балістичного «навісу», впроваджується **протокол двобічного оптичного захоплення**. Перед входом у щільні шари стратосфери носовий оптичний вузол капсули вистрілює назустріч приймальній станції малопотужний зондувальний лазер-маяк. Наземна система адаптивної оптики (ADAOS) перехоплює цей маркер, за мікросекунди прораховуючи викривлення атмосфери та точну балістичну траєкторію апарату. Після цього наземний комплекс закриває контур і вистрілює головний силовий гальмівний лазер строго по вивіреному вектору в ніс капсули, починаючи плавне скидання швидкості за рахунок світлового тиску ще у вакуумному ешелоні. Після успішного наведення та стабілізації гальмівного контуру бортовий лазер-маяк вимикається.
+
 * **Магнітогідродинамічне (МГД) гальмування**: При гальмуванні у стратосфері перед капсулою утворюється високотемпературний шар іонізованого повітря (плазма). В носову частину капсули інтегруються надпровідні магнітні котушки. Плазма, проходячи крізь магнітне поле капсули, генерує електричний струм, який направляється на зарядку бортових графен-сотових суперконденсаторів. Ця енергія використовується для живлення бортових систем під час вертикального спуску на вишку.
+
 * **Спуск на «лазерній подушці**: Після гальмування капсула опускається строго над вишкою, підтримувана знизу лазером, потужність якого автоматика плавно знижує, імітуючи роботу невидимого парашута. На висоті 50 метрів роботизовані маніпулятори вежі фіксують корпус, після чого лазер повністю вимикається.
 
 ## ⚖ ЮРИДИЧНИЙ МЕМОРАНДУМ ТА ІНТЕЛЕКТУАЛЬНА ВЛАСНІСТЬ
