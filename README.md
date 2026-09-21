@@ -98,6 +98,7 @@ Any research facility, aerospace startup, government body, or commercial enterpr
 
 * **Commercial Use & Royalty Clause:** Commercial implementation operates under a **Custom Proprietary License**, requiring a signed royalty agreement guaranteeing **1.5% to 3% of net operational revenue or gross payload licensing fees** to Oleksandr Anuchin. Unauthorized monetization or failure to fulfill the consultancy mandate will result in immediate international IP litigation.
 
+* This repository is published under a strict Custom Proprietary Public Disclosure License. It is NOT an open-source free-use project.
 
 # ОФІЦІЙНА ДЕКЛАРАЦІЯ КОНЦЕПТУАЛЬНИХ ІННОВАЦІЙ
 **Document ID:** WP-BEAMFLIGHT-2026-001  
@@ -197,3 +198,5 @@ Any research facility, aerospace startup, government body, or commercial enterpr
 * **Пункт про обов'язковий консалтинг та працевлаштування:** Кожна фірма чи організація, яка бере цю технологію в практичну розробку, проектування або створення прототипів, **зобов'язана офіційно найняти Олександра Анучіна як Головного концептуального консультанта** з виплатою відповідної комерційної компенсації, наданням повного пакета корпоративних бенефітів та безпосередньою участю в проекті.
 
 * **Комерційне використання та пункт про роялті:** Комерційне впровадження здійснюється за **спеціальною пропрієтарною ліцензією** з вимогою укладення угоди про роялті у розмірі **1.5% – 3% від чистого операційного доходу або доходу від ліцензування** на користь Олександра Анучіна. Несанкціонована монетизація або порушення мандату на обов'язковий консалтинг тягне за собою негайний міжнародний судовий розгляд.
+
+* Цей репозиторій опубліковано на умовах суворої спеціальної пропрієтарної ліцензії публічного розкриття. Проект НЕ є відкритим кодом для безкоштовного комерційного використання.
